@@ -1,0 +1,19 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikahire1299/Demo-iauro-system.git"
+  },
+  "author": "Pratik Ahire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikahire1299/Demo-iauro-system/issues"
+  },
+  "homepage": "https://github.com/pratikahire1299/Demo-iauro-system#readme"
+}
