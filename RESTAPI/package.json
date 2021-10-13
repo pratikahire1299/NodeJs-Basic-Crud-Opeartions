@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratikahire1299/Demo-iauro-system/tree/main/RESTAPI"
+  },
+  "author": "Pratik Ahire",
+  "license": "ISC",
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  }
+}
